@@ -10,5 +10,8 @@ In this project we use the Swarm and Whisper protocols defined by Ethereum to de
 ![System Architecture](https://github.com/bhargav-sarvaria/BlockchainMessenger/blob/main/Architecture.png)
 
 ## Publications 
-[Research paper on Survey](https://www.irjet.net/archives/V5/i10/IRJET-V5I10142.pdf)
-[Research paper on Implementation](https://www.irjet.net/archives/V6/i4/IRJET-V6I4543.pdf)
+- [Research paper on Survey](https://www.irjet.net/archives/V5/i10/IRJET-V5I10142.pdf)
+- [Research paper on Implementation](https://www.irjet.net/archives/V6/i4/IRJET-V6I4543.pdf)
+
+
+
