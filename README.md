@@ -2,7 +2,7 @@
 
 In this project we use the Swarm and Whisper protocols defined by Ethereum to develop a decentralized application for file storage and messaging.
 
-Swarm - Divides and encrypts file into multiple chunks and replicates it across various nodes connected with hashing keys.
+Swarm - Shards and encrypts file into multiple chunks and replicates it across various nodes connected with hashing keys.
 Whisper - Peer-to-Peer decentralized messaging protocol with no data stored in a centralized server.
 
 ## Architecture 
