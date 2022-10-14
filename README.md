@@ -1,27 +1,12 @@
-# AngularSwarm
+# Decentralized File Storage and Sharing using Ethereum Blockchain
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
+In this project we use the Swarm and Whisper protocols defined by Ethereum to develop an application for file storage and messaging.
 
-## Development server
+Swarm - Divides and encrypts file into multiple chunks and replicates it across various nodes connected with hashing keys.
+Whisper - Peer-to-Peer decentralized messaging protocol with no data stored in a centralized server.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Architecture 
+![System Architecture](https://github.com/bhargav-sarvaria/BlockchainMessenger/blob/main/Architecture.png)
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+[Research paper on Survey](https://www.irjet.net/archives/V5/i10/IRJET-V5I10142.pdf)
+[Research paper on Implementation](https://www.irjet.net/archives/V6/i4/IRJET-V6I4543.pdf)
